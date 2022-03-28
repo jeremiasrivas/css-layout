@@ -1,8 +1,8 @@
 header {
     background-color: #294669;
     color: ghostwhite;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding: 10px 15px;
+    border: 12px solid #ffa949;
+    border-bottom-color: #cf7919;
+    margin: 20px 5px;
 }
