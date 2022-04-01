@@ -26,6 +26,10 @@ section {
     background-color: azure;
 }
 
+.hide {
+    display: none;
+}
+
 aside img, #bio {
      width: 600px;
      max-width: 480px ;
