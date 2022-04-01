@@ -26,11 +26,7 @@ section {
     background-color: azure;
 }
 
-h1 {
-    position: relative;
-    left: 60px;
-    background-color: yellow;
-}
+
 
 .hide {
     display: none;
