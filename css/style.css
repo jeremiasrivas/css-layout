@@ -13,6 +13,8 @@ aside img {
 
 #bio {
     width: 600px;
+    padding: 2rem;
+    border: 5px solid tomato;
     background-color: mistyrose;
 }
 
