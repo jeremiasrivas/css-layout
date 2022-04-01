@@ -29,12 +29,16 @@ section {
     background-color: azure;
 }
 
+article {
+    margin-top: 3rem;
+}
+
 #interesting-banner {
-    padding: 10px 15px
-    border 12px solid lightsalmon;
-    margin: 0 -8px;
-    background-color: firebrick; 
-    color: white; 
+    padding: 10px 15px;
+    border: 12px solid lightsalmon;
+    margin: 0% -8px;
+    background-color: firebrick;
+    color: white;
 }
 
 
