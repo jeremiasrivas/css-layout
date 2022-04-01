@@ -33,7 +33,21 @@ section {
     
 }
 
-aside img, #bio {
+
+figure {
+    position: relative;
+    margin: 0%;
+}
+
+figcaption {
+    position: absolute; 
+    width: 100%;
+    bottom: 20px;
+    background-color: yellow;
+    text-align: center;
+}
+
+figure, aside img, #bio {
      width: 600px;
      max-width: 480px ;
 }
