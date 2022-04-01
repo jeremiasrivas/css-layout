@@ -26,8 +26,11 @@ section {
     background-color: azure;
 }
 
+
+
 .hide {
     display: none;
+    
 }
 
 aside img, #bio {
@@ -50,4 +53,8 @@ footer {
     color: #294969;
     font-size: .8rem;
     text-align: center;
+}
+
+ul li {
+    display: inline;
 }
