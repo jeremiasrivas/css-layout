@@ -5,7 +5,7 @@
 
 
 html {
-    font-size: 1.125em;
+    font-size: 1.25em;
 }
 
 
@@ -24,6 +24,7 @@ aside img {
 
 #bio {
     width: 600px;
+    max-width: 600px;
     padding: 2rem;
     border: 5px solid tomato;
     background-color: mistyrose;
