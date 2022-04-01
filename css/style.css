@@ -10,6 +10,7 @@ html {
 
 
 header {
+    height: 25vh;
     background-color: #294669;
     color: ghostwhite;
     padding: 10px 15px;
@@ -18,14 +19,20 @@ header {
     margin: -8px -8px 20px;
 }
 
-aside img {
+section {
+    min-height: 100vh;
+    padding: 1rem;
+    border-bottom: 2px dotted #666;
+    background-color: azure;
+}
+
+aside img, #bio {
      width: 600px;
-     max-width: 600px ;
+     max-width: 480px ;
 }
 
 #bio {
-    width: 100%;
-    max-width: 600px;
+
     padding: 2rem;
     border: 5px solid tomato;
     background-color: mistyrose;
