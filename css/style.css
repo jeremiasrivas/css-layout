@@ -1,3 +1,8 @@
+html {
+    font-size: 1.125em;
+}
+
+
 header {
     background-color: #294669;
     color: ghostwhite;
@@ -12,7 +17,7 @@ aside img {
 }
 
 #bio {
-    width: 600px;
+    width: 526px;
     padding: 2rem;
     border: 5px solid tomato;
     background-color: mistyrose;
