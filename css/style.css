@@ -10,7 +10,10 @@ html {
 
 
 header {
-    height: 25vh;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    width: 100%;
     background-color: #294669;
     color: ghostwhite;
     padding: 10px 15px;
@@ -26,6 +29,13 @@ section {
     background-color: azure;
 }
 
+#interesting-banner {
+    padding: 10px 15px
+    border 12px solid lightsalmon;
+    margin: 0 -8px;
+    background-color: firebrick; 
+    color: white; 
+}
 
 
 .hide {
