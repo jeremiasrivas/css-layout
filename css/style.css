@@ -28,6 +28,7 @@ section {
 
 h1 {
     position: relative;
+    left: 60px;
     background-color: yellow;
 }
 
