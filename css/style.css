@@ -34,11 +34,14 @@ article {
 }
 
 #interesting-banner {
+    position: sticky;
+    top: 0%;
     padding: 10px 15px;
     border: 12px solid lightsalmon;
     margin: 0% -8px;
     background-color: firebrick;
     color: white;
+    font-weight: bold;
 }
 
 
