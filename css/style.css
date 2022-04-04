@@ -64,6 +64,7 @@ article {
 figure {
     position: relative;
     margin: 0%;
+    z-index: 1;
 }
 
 figcaption {
