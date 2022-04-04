@@ -31,13 +31,7 @@ section {
 }
 
 .small-img {
-    float: left;
-    width: 300px;
-    margin: 0 1rem 1rem 0;
-}
-
-.clear {
-    clear: both;
+    width: 100%;
 }
 
 article {
@@ -115,6 +109,18 @@ ul li {
     }
     #interesting-banner {
         display: none;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .small-img {
+        float: left;
+        width: 300px;
+        margin: 0 1rem 1rem 0;
+    }
+    
+    .clear {
+        clear: both;
     }
 }
 
