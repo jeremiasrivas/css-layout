@@ -11,6 +11,7 @@ html {
 
 header {
     position: fixed;
+    z-index: 2;
     top: 0%;
     left: 0%;
     width: 100%;
@@ -45,6 +46,7 @@ article {
 
 #interesting-banner {
     position: sticky;
+    z-index: 3;
     top: 0%;
     padding: 10px 15px;
     border: 12px solid lightsalmon;
@@ -109,5 +111,8 @@ ul li {
 @media print {
     section {
         min-height: auto;
+    }
+    #interesting-banner {
+        display: none;
     }
 }
