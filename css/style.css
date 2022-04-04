@@ -29,6 +29,12 @@ section {
     background-color: azure;
 }
 
+.small-img {
+    float: left;
+    width: 300px;
+    margin: 0 1rem 1rem 0;
+}
+
 article {
     margin-top: 3rem;
 }
