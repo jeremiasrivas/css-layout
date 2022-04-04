@@ -35,6 +35,10 @@ section {
     margin: 0 1rem 1rem 0;
 }
 
+.clear {
+    clear: both;
+}
+
 article {
     margin-top: 3rem;
 }
@@ -98,4 +102,11 @@ ul li {
     padding: 10px 0;
     background-color: yellow;
     text-align: center;
+}
+
+
+@media print {
+    section {
+        min-height: auto;
+    }
 }
