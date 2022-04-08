@@ -141,5 +141,6 @@ ul li {
 @media screen and (min-width: 900px), (orientation: portrait) {
      section {
          background-color: cornsilk;
+         offset: top -45px left;
      }
 }
